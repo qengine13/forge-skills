@@ -1,0 +1,77 @@
+[
+  {
+    "file": "exports/forge-skills-memory-landscape.mp4",
+    "bytes": 4788126,
+    "sha256": "8da9772c06d656162a4842d27ca5cd6ad30f9629be3c62298bed8e6da0b5620c"
+  },
+  {
+    "file": "exports/forge-skills-memory-vertical.mp4",
+    "bytes": 4918093,
+    "sha256": "afcdf35b3565d606a8b7166632fb37727ebaefdca760bb7985d2c06596adefc2"
+  },
+  {
+    "file": "exports/forge-skills-plan-landscape.mp4",
+    "bytes": 5117939,
+    "sha256": "c6f559b035fd71a84878ef65206ecbbb608a15b90652980e4803124637024b6e"
+  },
+  {
+    "file": "exports/forge-skills-plan-vertical.mp4",
+    "bytes": 5358725,
+    "sha256": "8f735a487f728c017609bfc59fe3f7e73d34bfbd42bb4c5fd1b8f96b67e08e16"
+  },
+  {
+    "file": "exports/forge-skills-github-social.png",
+    "bytes": 71947,
+    "sha256": "fe0e8b38c024332b5fa12d874bef88e3903a5f96d9e196b3d05b00a94885d5c6"
+  },
+  {
+    "file": "exports/forge-skills-memory-landscape-cover.png",
+    "bytes": 167452,
+    "sha256": "f18a2126ad6e78da91c11fa596df49f92ee5a473afea37503f41d18d969906a8"
+  },
+  {
+    "file": "exports/forge-skills-memory-square.png",
+    "bytes": 134281,
+    "sha256": "ab07a2c8031437b571f82ae68cbb9bbef513c1448608fa5e1af30b7b1c9ff056"
+  },
+  {
+    "file": "exports/forge-skills-plan-landscape-cover.png",
+    "bytes": 222011,
+    "sha256": "d1c412d1f5402b98e5b5291f340b82259e6ca49225a0801d0d1739aba475a009"
+  },
+  {
+    "file": "exports/forge-skills-plan-square.png",
+    "bytes": 195204,
+    "sha256": "2a57ea756845b836e7cf8f00af29cf999790872becef92bae0d573ecc22cacd2"
+  },
+  {
+    "file": "exports/forge-skills-memory.vtt",
+    "bytes": 772,
+    "sha256": "a4cf22f971f02c4722d47a5d20c70983b22f0a6f001b41dc30dc68ed209718b3"
+  },
+  {
+    "file": "exports/forge-skills-plan.vtt",
+    "bytes": 792,
+    "sha256": "b5b2666fc938ff71bb5e24fbfb407141c4600a892c8384d94c6c702a390566d3"
+  },
+  {
+    "file": "exports/forge-skills-memory.srt",
+    "bytes": 764,
+    "sha256": "5e962441e14e0c1b24c2f36dd7d6ac374d9e5982c05cfc4a7565c829be7c438c"
+  },
+  {
+    "file": "exports/forge-skills-plan.srt",
+    "bytes": 784,
+    "sha256": "f8cbdbe09e118491e97f993132f11dd0f4d8a2af7e0588b7794eaf70cfb503b5"
+  },
+  {
+    "file": "source/public/Inter.ttf",
+    "bytes": 876576,
+    "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+  },
+  {
+    "file": "source/public/Inter-OFL.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  }
+]

@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:06,000
+You told your AI assistant how your shop works.
+
+2
+00:00:06,000 --> 00:00:13,000
+A fresh conversation may be missing a decision you already made.
+
+3
+00:00:13,000 --> 00:00:20,000
+A skill guides your AI; the connected memory tool stores the notes.
+
+4
+00:00:20,000 --> 00:00:28,000
+Ask it to save a decision. It keeps a note on your computer.
+
+5
+00:00:28,000 --> 00:00:37,000
+The assistant can search saved notes, then check what is still true.
+
+6
+00:00:37,000 --> 00:00:45,000
+The earlier decision can inform the next piece of work.
+
+7
+00:00:45,000 --> 00:00:53,000
+Use the setup guide for Claude Code or Codex. Saving stays your choice.
+
+8
+00:00:53,000 --> 00:01:00,000
+Explore the free, open-source collection and its setup guide.

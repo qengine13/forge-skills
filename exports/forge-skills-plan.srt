@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:06,000
+You ask AI to build something. It gets to work.
+
+2
+00:00:06,000 --> 00:00:13,000
+A page can look good and still miss something important.
+
+3
+00:00:13,000 --> 00:00:20,000
+A skill is a reusable set of instructions for your AI assistant.
+
+4
+00:00:20,000 --> 00:00:28,000
+Look at the real project, find gaps, and agree what success means.
+
+5
+00:00:28,000 --> 00:00:37,000
+Recall past decisions. Challenge the plan. Define how to check the result.
+
+6
+00:00:37,000 --> 00:00:45,000
+The example plan requires checking that one time cannot be booked twice.
+
+7
+00:00:45,000 --> 00:00:53,000
+Install Plan Hygiene, open your project in Claude Code or Codex, and ask.
+
+8
+00:00:53,000 --> 00:01:00,000
+Explore the free, open-source collection and its setup guide.
