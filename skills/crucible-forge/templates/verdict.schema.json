@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Crucible Forge verdict",
+  "type": "object",
+  "required": [
+    "panelist",
+    "verdict",
+    "decision",
+    "confidence",
+    "evidence_provided",
+    "evidence_demanded",
+    "outstanding_objections",
+    "kill_conditions",
+    "next_3_steps"
+  ],
+  "properties": {
+    "panelist": {
+      "type": "string",
+      "minLength": 1
+    },
+    "verdict": {
+      "enum": [
+        "PASS",
+        "FAIL",
+        "INSUFFICIENT_EVIDENCE"
+      ]
+    },
+    "decision": {
+      "enum": [
+        "accept",
+        "accept_with_modification",
+        "reject",
+        "defer"
+      ]
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "evidence_provided": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "evidence_demanded": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "outstanding_objections": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "kill_conditions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "next_3_steps": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "maxItems": 3
+    }
+  },
+  "additionalProperties": true,
+  "$comment": "Run validate_verdict.py as well: it enforces cross-field approval constraints."
+}

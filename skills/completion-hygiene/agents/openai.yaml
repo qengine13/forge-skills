@@ -1,0 +1,4 @@
+interface:
+  display_name: "Completion Hygiene"
+  short_description: "Audit done, ready, merge-ready, and shipped claims"
+  default_prompt: "Use $completion-hygiene to audit this completion claim against its plan and current evidence."

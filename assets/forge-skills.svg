@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" role="img" aria-labelledby="title desc">
+<title id="title">Forge Skills</title><desc id="desc">Better decisions. Stronger builds. Proof before claims. Seven practical skills for AI agents.</desc>
+<rect width="1440" height="520" rx="22" fill="#101a1c"/>
+<g stroke="#284244" stroke-width="1" opacity=".45"><path d="M950 0V520M1090 0V520M1230 0V520M1370 0V520M880 70H1440M880 210H1440M880 350H1440M880 490H1440"/></g>
+<path d="M1015 115h255v74h-175v72h133v74h-133v92h-80z" fill="#b5efc9"/>
+<path d="M1270 115l-74 74h74zM1228 261l-74 74h74z" fill="#f1a369"/>
+<circle cx="1326" cy="426" r="9" fill="#f1a369"/>
+<text x="72" y="80" fill="#b5efc9" font-family="ui-monospace,monospace" font-size="16" letter-spacing="4">THE AGENT WORKSHOP / 02</text>
+<text x="68" y="217" fill="#f3f0e6" font-family="Arial,Helvetica,sans-serif" font-size="112" font-weight="700" letter-spacing="-5">Forge Skills.</text>
+<text x="74" y="292" fill="#d9dfd9" font-family="Arial,Helvetica,sans-serif" font-size="30">Better decisions. Stronger builds.</text>
+<text x="74" y="336" fill="#d9dfd9" font-family="Arial,Helvetica,sans-serif" font-size="30">Proof before claims.</text>
+<path d="M74 394H808" stroke="#47615e"/>
+<text x="74" y="443" fill="#b5efc9" font-family="ui-monospace,monospace" font-size="15" letter-spacing="2">ORIENT / PLAN / BUILD / VERIFY / IMPROVE / DECIDE</text>
+</svg>

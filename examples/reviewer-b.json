@@ -1,0 +1,17 @@
+{
+  "panelist": "reviewer-b",
+  "verdict": "PASS",
+  "decision": "accept",
+  "confidence": 0.7,
+  "evidence_provided": [
+    "Fictional example: tests for the documented rollback passed."
+  ],
+  "evidence_demanded": [],
+  "outstanding_objections": [],
+  "kill_conditions": [
+    "Stop the rollout if the rollback probe fails."
+  ],
+  "next_3_steps": [
+    "Run the staged rollout with the owner."
+  ]
+}

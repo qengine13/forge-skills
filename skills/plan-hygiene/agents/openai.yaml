@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Hygiene"
+  short_description: "Ground substantive plans before execution starts"
+  default_prompt: "Use $plan-hygiene to pre-flight this plan against current evidence and doctrine."

@@ -1,0 +1,17 @@
+Forge Skills
+Curated and maintained by Avichayil (qengine13).
+
+This collection adapts the owner's source Plan Hygiene, Completion Hygiene, Project Forge,
+Prompt Forge, Anti-Slop Gates, and Codex Crucible Forge packages, plus the Agent Memory runtime.
+Anti-Slop Gates is derived from the owner's source skills collection and project quality gates.
+The collection retains the Apache License 2.0 used by the source skills repository.
+
+Public-edition changes: portable paths; shared subscription-aware model policy; documented
+fallback review checklists; provider-neutral Crucible name; offline verdict validation and
+aggregation replacing the machine-specific provider runner; public installation and examples.
+Additional changes: isolated memory storage, explicit write/model controls, subscription CLI
+adjudication, generic project conventions, and removal of private history from code and prose.
+See docs/provenance.md for the boundaries of this edition.
+
+Gauntlet Loop is NOT bundled. Its attribution credits Matt Shumer for the technique
+and Jay E / RoboNuggets for packaging. The documentation links to that external project.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Forge"
+  short_description: "Orient projects and choose the highest-leverage action"
+  default_prompt: "Use $project-forge to orient this project from live files, initialize or adopt its quality checks unless native gates apply, and recommend the next action."

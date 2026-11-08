@@ -1,0 +1,6 @@
+interface:
+  display_name: "Crucible Forge"
+  short_description: "Evidence-bound decision tribunal"
+  default_prompt: "Use $crucible-forge to stress-test this decision and return an evidence-bound verdict."
+policy:
+  allow_implicit_invocation: true

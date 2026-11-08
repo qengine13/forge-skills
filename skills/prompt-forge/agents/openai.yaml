@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Forge"
+  short_description: "Own skill behavior, triggers, evals, and safe shortening"
+  default_prompt: "Use $prompt-forge to improve this prompt and validate it on representative tasks."
