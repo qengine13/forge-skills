@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="docs/installation.md"><strong>Get started</strong></a> ·
+  <a href="https://qengine13.github.io/forge-skills/"><strong>Watch the demos</strong></a> ·
   <a href="#choose-your-skill"><strong>Explore the skills</strong></a> ·
   <a href="docs/walkthrough.md"><strong>See the workflow</strong></a> ·
   <a href="docs/verification.md"><strong>What is tested</strong></a>
@@ -24,6 +25,29 @@ keep code quality from slipping, and describe exactly what has been verified.
 Install the skills you need. Invoke them when the work calls for them.
 
 **Seven skills · Claude Code and Codex · Subscription-first agent work · Local memory included**
+
+## See what the skills do
+
+Two one-minute illustrated guides, explained through everyday examples. Click a cover to watch;
+each film is available in wide and vertical formats, with captions and downloads.
+
+### Check the plan before building
+
+[![Watch Plan Hygiene: Great idea. Better plan.](https://qengine13.github.io/forge-skills/exports/forge-skills-plan-landscape-cover.png)](https://qengine13.github.io/forge-skills/#plan)
+
+A booking-page example shows how Plan Hygiene helps an assistant inspect the real project,
+find gaps and define what success should look like. [Watch Plan Hygiene →](https://qengine13.github.io/forge-skills/#plan)
+
+### Carry useful decisions into the next conversation
+
+[![Watch Agent Memory: I already told you that.](https://qengine13.github.io/forge-skills/exports/forge-skills-memory-landscape-cover.png)](https://qengine13.github.io/forge-skills/#memory)
+
+A fictional shop shows how explicitly saved decisions can inform later work, with a check that
+they still apply. [Watch Agent Memory →](https://qengine13.github.io/forge-skills/#memory)
+
+The films use original illustrations, on-screen explanations and music, without voiceover.
+They explain the workflows; they are not recordings of live assistant conversations.
+[Browse the video files and captions](https://github.com/qengine13/forge-skills/tree/gh-pages/exports).
 
 ## Choose your skill
 
